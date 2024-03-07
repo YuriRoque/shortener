@@ -1,7 +1,3 @@
-# Shortener Project
-
-This project was made in a training program at Qualit Learning eXperience
-
 ## Explanations
 
 The concept behind shortener project is to take some informations about the user who clicks on a generated shortener link.
